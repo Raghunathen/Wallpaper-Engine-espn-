@@ -1,0 +1,6 @@
+bs4
+pillow
+--upgrade oauth2client 
+httplib2
+requests
+command
