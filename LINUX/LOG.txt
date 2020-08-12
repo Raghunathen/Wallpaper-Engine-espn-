@@ -1,6 +1,0 @@
-text ot speech. No text to speak error
--> make text to speach in a different file
-Removed TXT to speech
-->Linux cant add str to none (/n)
-Changed some shit
--> working pasting on TXT
